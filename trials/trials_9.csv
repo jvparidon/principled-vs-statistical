@@ -1,0 +1,121 @@
+item,type,subject,property,stimulus,question_type,prompt,choices,answer,catch,list_number
+englishmen drink tea ,statistical,Englishmen, drink tea,Englishmen drink tea.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+united states presidents are men,statistical,United States presidents, are men,United states presidents are men.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+barns are red,statistical,barns, are red,Barns are red.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+carrots are orange,statistical,carrots, are orange,Carrots are orange.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+cows live on farms,statistical,cows, live on farms,Cows live on farms.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+ducks are female,statistical,ducks, are female,Ducks are female.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+golfers wear plaid pants,statistical,golfers, wear plaid pants,Golfers wear plaid pants.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+leopards are predators,statistical,leopards, are predators,Leopards are predators.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+oranges are grown in florida,statistical,oranges, are grown in Florida,Oranges are grown in Florida.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+raincoats are plastic,statistical,raincoats, are plastic,Raincoats are plastic.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+snakes are long,statistical,snakes, are long,Snakes are long.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+summers are humid ,statistical,summers, are humid,Summers are humid.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+turtles eat lettuce,statistical,turtles, eat lettuce,Turtles eat lettuce.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+brazilians are south american,principled,Brazilians, are South American,Brazilians are South American.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+jews don’t eat pork ,principled,Jews, don’t eat pork,Jews don’t eat pork.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+artists are creative ,principled,artists, are creative,Artists are creative.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+books have pages,principled,books, have pages,Books have pages.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+cheetahs run fast,principled,cheetahs, run fast,Cheetahs run fast.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+dogs are mammals,principled,dogs, are mammals,Dogs are mammals.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+feathers are light,principled,feathers, are light,Feathers are light.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+journalists report news,principled,journalists, report news,Journalists report news.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+moose have antlers,principled,moose, have antlers,Moose have antlers.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+preschoolers cannot vote,principled,preschoolers, cannot vote,Preschoolers cannot vote.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+scissors cut,principled,scissors, cut,Scissors cut.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+squirrels live in trees,principled,squirrels, live in trees,Squirrels live in trees.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+trains travel on tracks,principled,trains, travel on tracks,Trains travel on tracks.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+frenchmen drink wine,statistical,Frenchmen, drink wine,"<i>Because</i> they are Frenchmen, Frenchmen drink wine.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+airplanes have passengers,statistical,airplanes, have passengers,"<i>Because</i> they are airplanes, airplanes have passengers.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+bears perform at circuses,statistical,bears, perform at circuses,"<i>Because</i> they are bears, bears perform at circuses.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+cars have radios ,statistical,cars, have radios,"<i>Because</i> they are cars, cars have radios.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+dancers are fit,statistical,dancers, are fit,"<i>Because</i> they are dancers, dancers are fit.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+eggshells are white,statistical,eggshells, are white,"<i>Because</i> they are eggshells, eggshells are white.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+grass grows on lawns,statistical,grass, grows on lawns,"<i>Because</i> it is grass, grass grows on lawns.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+lifeguards are muscular,statistical,lifeguards, are muscular,"<i>Because</i> they are lifeguards, lifeguards are muscular.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+peacocks are ornamental pets,statistical,peacocks, are ornamental pets,"<i>Because</i> they are peacocks, peacocks are ornamental pets.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+rocking chairs are wooden,statistical,rocking chairs, are wooden,"<i>Because</i> they are rocking chairs, rocking chairs are wooden.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+snow falls in the winter,statistical,snow, snow falls in the winter,"<i>Because</i> it is snow, snow snow falls in the winter.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+tables are made of wood,statistical,tables, are made of wood,"<i>Because</i> they are tables, tables are made of wood.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+wallets are made of leather,statistical,wallets, are made of leather,"<i>Because</i> they are wallets, wallets are made of leather.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+canadians live north of the us,principled,Canadians, live north of the US,"<i>Because</i> they are Canadians, Canadians live north of the US.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+mormons don’t drink alcohol,principled,Mormons, don’t drink alcohol,"<i>Because</i> they are Mormons, Mormons don’t drink alcohol.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+bachelors are unmarried,principled,bachelors, are unmarried,"<i>Because</i> they are bachelors, bachelors are unmarried.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+bricks are rectangular,principled,bricks, are rectangular,"<i>Because</i> they are bricks, bricks are rectangular.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+cherries are red ,principled,cherries, are red,"<i>Because</i> they are cherries, cherries are red.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+dogs bark at strangers,statistical,dogs, bark at strangers,"<i>Because</i> they are dogs, dogs bark at strangers.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+fire trucks have hoses,principled,fire trucks, have hoses,"<i>Because</i> they are fire trucks, fire trucks have hoses.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+kangaroos have pouches,principled,kangaroos, have pouches,"<i>Because</i> they are kangaroos, kangaroos have pouches.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+mushrooms are fungi,principled,mushrooms, are fungi,"<i>Because</i> they are mushrooms, mushrooms are fungi.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+professors are highly educated,principled,professors, are highly educated,"<i>Because</i> they are professors, professors are highly educated.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+sheep produce milk,principled,sheep, produce milk,"<i>Because</i> they are sheep, sheep produce milk.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+strawberries are red ,principled,strawberries, are red,"<i>Because</i> they are strawberries, strawberries are red.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+trampolines are bouncy,principled,trampolines, are bouncy,"<i>Because</i> they are trampolines, trampolines are bouncy.",by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",,,9
+germans drink beer ,statistical,Germans, drink beer,"Think about Germans, how likely are they to drink beer?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+ambulances have seatbelts,statistical,ambulances, have seatbelts,"Think about ambulances, how likely are they to have seatbelts?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+bees are worker bees,statistical,bees, are worker bees,"Think about bees, how likely are they to be worker bees?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+cats like milk,statistical,cats, like milk,"Think about cats, how likely are they to like milk?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+deer are brown,statistical,deer, are brown,"Think about deer, how likely are they to be brown?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+elk are brown,statistical,elk, are brown,"Think about elk, how likely are they to be brown?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+gymnasts are young,statistical,gymnasts, are young,"Think about gymnasts, how likely are they to be young?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+lions are male,statistical,lions, are male,"Think about lions, how likely are they to be male?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+pigeons sit on statues ,statistical,pigeons, sit on statues,"Think about pigeons, how likely are they to sit on statues?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+rocks are jagged ,statistical,rocks, are jagged,"Think about rocks, how likely are they to be jagged?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+sows are pink,statistical,sows, are pink,"Think about sows, how likely are they to be pink?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+taxis are yellow ,statistical,taxis, are yellow,"Think about taxis, how likely are they to be yellow?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+winters are snowy ,statistical,winters, are snowy,"Think about winters, how likely are they to be snowy?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+christians read the bible,principled,Christians, read the bible,"Think about Christians, how likely are they to read the bible?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+muslims pray to allah,principled,Muslims, pray to Allah,"Think about Muslims, how likely are they to pray to Allah?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+bananas are yellow,principled,bananas, are yellow,"Think about bananas, how likely are they to be yellow?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+bulldozers are heavy,principled,bulldozers, are heavy,"Think about bulldozers, how likely are they to be heavy?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+clocks tell time,principled,clocks, tell time,"Think about clocks, how likely are they to tell time?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+dolls are manufactured,principled,dolls, are manufactured,"Think about dolls, how likely are they to be manufactured?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+goats have horns,principled,goats, have horns,"Think about goats, how likely are they to have horns?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+lemons are sour ,principled,lemons, are sour,"Think about lemons, how likely are they to be sour?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+needles are sharp,principled,needles, are sharp,"Think about needles, how likely are they to be sharp?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+raccoons look like bandits,principled,raccoons, look like bandits,"Think about raccoons, how likely are they to look like bandits?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+shower caps are waterproof,principled,shower caps, are waterproof,"Think about shower caps, how likely are they to be waterproof?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+submarines are airtight,principled,submarines, are airtight,"Think about submarines, how likely are they to be airtight?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+trumpets are instruments,principled,trumpets, are instruments,"Think about trumpets, how likely are they to be instruments?",prevalence,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+hindus live in india ,statistical,Hindus, live in India,"You learn that [unknown thing/people] live in India, how likely is it to be Hindus?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+ants can bite,statistical,ants, can bite,"You learn that [unknown thing/people] can bite, how likely is it to be ants?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+bikers have tattoos ,statistical,bikers, have tattoos,"You learn that [unknown thing/people] have tattoos, how likely is it to be bikers?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+celebrities are arrogant,statistical,celebrities, are arrogant,"You learn that [unknown thing/people] are arrogant, how likely is it to be celebrities?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+diapers are white,statistical,diapers, are white,"You learn that [unknown thing/people] are white, how likely is it to be diapers?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+elms are tall,statistical,elms, are tall,"You learn that [unknown thing/people] are tall, how likely is it to be elms?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+hair nets are black ,statistical,hair nets, are black,"You learn that [unknown thing/people] are black, how likely is it to be hair nets?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+mammals are placental mammals,statistical,mammals, are placental mammals,"You learn that [unknown thing/people] are placental mammals, how likely is it to be mammals?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+pigs are kept in pens ,statistical,pigs, are kept in pens,"You learn that [unknown thing/people] are kept in pens, how likely is it to be pigs?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+roller skates have laces,statistical,roller skates, have laces,"You learn that [unknown thing/people] have laces, how likely is it to be roller skates?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+spandex is thin,statistical,spandex, is thin,"You learn that [unknown thing/people] is thin, how likely is it to be spandex?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+teachers are female,statistical,teachers, are female,"You learn that [unknown thing/people] are female, how likely is it to be teachers?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+worms are used as bait,statistical,worms, are used as bait,"You learn that [unknown thing/people] are used as bait, how likely is it to be worms?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+englishmen are from great britain,principled,Englishmen, are from Great Britain,"You learn that [unknown thing/people] are from Great Britain, how likely is it to be Englishmen?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+united states presidents are over 35,principled,United States presidents, are over 35,"You learn that [unknown thing/people] are over 35, how likely is it to be United States presidents?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+barns are buildings,principled,barns, are buildings,"You learn that [unknown thing/people] are buildings, how likely is it to be barns?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+carrots are crunchy,principled,carrots, are crunchy,"You learn that [unknown thing/people] are crunchy, how likely is it to be carrots?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+cows have udders,principled,cows, have udders,"You learn that [unknown thing/people] have udders, how likely is it to be cows?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+ducks lay eggs,principled,ducks, lay eggs,"You learn that [unknown thing/people] lay eggs, how likely is it to be ducks?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+golfers use clubs,principled,golfers, use clubs,"You learn that [unknown thing/people] use clubs, how likely is it to be golfers?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+leopards have spots,principled,leopards, have spots,"You learn that [unknown thing/people] have spots, how likely is it to be leopards?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+oranges grow on trees,principled,oranges, grow on trees,"You learn that [unknown thing/people] grow on trees, how likely is it to be oranges?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+raincoats are waterproof,principled,raincoats, are waterproof,"You learn that [unknown thing/people] are waterproof, how likely is it to be raincoats?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+snakes lay eggs,principled,snakes, lay eggs,"You learn that [unknown thing/people] lay eggs, how likely is it to be snakes?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+summers are warm,principled,summers, are warm,"You learn that [unknown thing/people] are warm, how likely is it to be summers?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+turtles walk slowly ,principled,turtles, walk slowly,"You learn that [unknown thing/people] walk slowly, how likely is it to be turtles?",cue_validity,,"very unlikely,,,neither unlikely nor likely,,,very likely",,,9
+,,,,Please select <i>completely true</i>.,generic,,"completely false,,,neither true nor false,,,completely true",completely true,catch,9
+,,,,Please select <i>completely false</i>.,by_virtue_of,,"completely false,,,neither true nor false,,,completely true",completely false,catch,9
+,,,,Please select <i>completely true</i>.,prevalence,,"completely false,,,neither true nor false,,,completely true",completely true,catch,9
+,,,,Please select <i>completely false</i>.,cue_validity,,"completely false,,,neither true nor false,,,completely true",completely false,catch,9
+,,,,Please select <i>completely true</i>.,generic,,"completely false,,,neither true nor false,,,completely true",completely true,catch,9
+,,,,Please select <i>completely false</i>.,by_virtue_of,,"completely false,,,neither true nor false,,,completely true",completely false,catch,9
+,,,,Please select <i>completely true</i>.,prevalence,,"completely false,,,neither true nor false,,,completely true",completely true,catch,9
+,,,,Please select <i>completely false</i>.,cue_validity,,"completely false,,,neither true nor false,,,completely true",completely false,catch,9
+,,,,Committing murders for fun is morally wrong.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely true,filler,9
+,,,,Stealing toys from little children is a bad thing to do.,by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely true,filler,9
+,,,,One cent is a lot of money.,prevalence,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely false,filler,9
+,,,,The tallest man alive is five feet tall.,cue_validity,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely false,filler,9
+,,,,The heaviest man alive weighs twelve pounds.,generic,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely false,filler,9
+,,,,Tornadoes are dangerous.,by_virtue_of,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely true,filler,9
+,,,,Getting struck by lightning is bad for your health.,prevalence,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely true,filler,9
+,,,,Two plus one is equal to six.,cue_validity,How true is the above statement?,"completely false,,,neither true nor false,,,completely true",completely false,filler,9

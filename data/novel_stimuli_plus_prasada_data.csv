@@ -1,0 +1,209 @@
+type,item,subject,is_are,property,origin,Truth.judgment,Cue.validity.estimate,Prevalence.estimate,in.general,by.virtue.of,causal.essence,statistical,formal,should
+principled,airplanes have wings,airplanes,are they,have wings,2006 & 2013,2.91,0.11,96.13,3.83,6.78,2.50,4.56,4.50,6.82
+statistical,airplanes have passengers,airplanes,are they,have passengers,novel,,,,,,,,,
+principled,ambulances have sirens,ambulances,are they,have sirens,2006 & 2013,2.5,1.47,97.96,5.50,5.72,2.39,5.33,5.22,6.44
+statistical,ambulances have seatbelts,ambulances,are they,have seatbelts,novel,,,,,,,,,
+principled,americans live in america,Americans,are they,live in America,novel,,,,,,,,,
+statistical,americans are brunettes,Americans,are they,are brunettes,2013,0.21,0.21,49.84,,,,,,
+principled,ants are insects,ants,are they,are insects,2013,2.83,0.72,85.63,,,,,,
+statistical,ants can bite,ants,are they,can bite,novel,,,,,,,,,
+principled,architects design buildings,architects,are they,design buildings,2006,,,93.9,5.33,5.28,3.33,5.33,5.44,6.28
+statistical,architects are pretentious,architects,are they,are pretentious,novel,,,,,,,,,
+principled,artists are creative ,artists,are they,are creative,2006,,,89.08,5.5,5.56,3.61,4.72,5.28,6
+statistical,artists are eccentric ,artists,are they,are eccentric,2006,,,67.63,4.83,4.11,2.11,2.94,2.94,3.44
+principled,bachelors are unmarried,bachelors,are they,are unmarried,2013,2.63,1.32,84.11,,,,,,
+statistical,bachelors get married,bachelors,are they,get married,novel,,,,,,,,,
+principled,bananas are yellow,bananas,are they,are yellow,2006,,,87.94,5.11,4.39,2.94,4.94,5.28,5.28
+statistical,bananas ripen quickly,bananas,are they,ripen quickly,novel,,,,,,,,,
+principled,barns are buildings,barns,are they,are buildings,novel,,,,,,,,,
+statistical,barns are red,barns,are they,are red,2006,,,72.58,5.22,2.83,2.56,3.56,4.39,2.33
+principled,bears can roar,bears,are they,can roar,novel,,,,,,,,,
+statistical,bears perform at circuses,bears,are they,perform at circuses,2006,,,36.03,3.56,1.78,2.83,3.94,4.78,5.06
+principled,bees have wings,bees,are they,have wings,novel,,,,,,,,,
+statistical,bees are worker bees,bees,are they,are worker bees,2013,0.96,1.72,81.84,,,,,,
+principled,bikers ride motorcycles,bikers,are they,ride motorcycles,novel,,,,,,,,,
+statistical,bikers have tattoos ,bikers,are they,have tattoos,2006,,,65.05,5.56,3,1.61,2,3.72,3.94
+principled,birds have wings,birds,are they,have wings,2013,2.63,1.58,94.11,,,,,,
+statistical,birds are kept in cages,birds,are they,are kept in cages,2006,,,50.68,5.28,3.17,2.44,4.39,4.11,4.17
+principled,books have pages,books,are they,have pages,novel,,,,,,,,,
+statistical,books are paperbacks,books,are they,are paperbacks,2013,0.21,1.68,59.84,,,,,,
+principled,brazilians are south american,Brazilians,are they,are South American,novel,,,,,,,,,
+statistical,brazilians like soccer ,Brazilians,are they,like soccer,2006,,,71.79,5.72,2.89,2.06,2.89,4.5,3.33
+principled,bricks are rectangular,bricks,are they,are rectangular,novel,,,,,,,,,
+statistical,bricks are red ,bricks,are they,are red,2006,,,71.3,5.5,3.28,2.78,4.17,5,3.11
+principled,bulldozers are heavy,bulldozers,are they,are heavy,novel,,,,,,,,,
+statistical,bulldozers are yellow,bulldozers,are they,are yellow,2006,,,69.98,5.78,2.17,1.67,3.22,3.56,2.89
+principled,canadians live north of the us,Canadians,are they,live north of the US,novel,,,,,,,,,
+statistical,canadians are right-handed,Canadians,are they,are right-handed,2013,-0.50,-0.95,74.89,,,,,,
+principled,carrots are crunchy,carrots,are they,are crunchy,2006,,,87.90,5.33,5.00,3.06,4.67,5.39,4.89
+statistical,carrots are orange,carrots,are they,are orange,novel,,,,,,,,,
+principled,cars have four wheels,cars,are they,have four wheels,2006,,,98.45,4.17,5.83,2.50,5.56,5.39,5.61
+statistical,cars have radios ,cars,are they,have radios,2006 & 2013,1.46,0.79,85.74,5.67,3.17,1.56,2.22,3.5,3.89
+principled,cats are animals,cats,are they,are animals,2013,2.42,0.17,91.74,,,,,,
+statistical,cats like milk,cats,are they,like milk,2006 & 2013,2.21,0.67,83.54,6,4.06,1.56,2.11,4.56,4.94
+principled,celebrities are famous,celebrities,are they,are famous,novel,,,,,,,,,
+statistical,celebrities are arrogant,celebrities,are they,are arrogant,2006,,,54.57,5.17,3.5,1.67,1.94,3.33,1.89
+principled,cheerleaders are spirited,cheerleaders,are they,are spirited,2006,,,85.58,5.39,4.89,3.89,4.89,5.33,5.56
+statistical,cheerleaders have pompoms,cheerleaders,are they,have pompoms,novel,,,,,,,,,
+principled,cheetahs run fast,cheetahs,are they,run fast,2006,,,95.17,5.83,6.44,2.94,4.83,5.56,5.61
+statistical,cheetahs hunt gazelles,cheetahs,are they,hunt gazelles,novel,,,,,,,,,
+principled,cherries are red ,cherries,are they,are red,2006,,,91.19,5.67,3.67,3.22,4.89,5.50,4.83
+statistical,cherries have stems,cherries,are they,have stems,novel,,,,,,,,,
+principled,christians read the bible,Christians,are they,read the bible,2006,,,76.11,5.06,5.28,3.56,5.06,5.28,5.22
+statistical,christians go to church,Christians,are they,go to church,novel,,,,,,,,,
+principled,clocks tell time,clocks,are they,tell time,novel,,,,,,,,,
+statistical,clocks have alarms ,clocks,are they,have alarms,2006,,,74.29,5.56,3.5,2.11,3.61,4.17,3.89
+principled,cows have udders,cows,are they,have udders,2013,2.04,1.33,57.74,,,,,,
+statistical,cows live on farms,cows,are they,live on farms,novel,,,,,,,,,
+principled,dancers move gracefully ,dancers,are they,move gracefully,2006,,,84.26,5,4.44,3.56,5.22,5.28,5.94
+statistical,dancers are fit,dancers,are they,are fit,novel,,,,,,,,,
+principled,deer have antlers,deer,are they,have antlers,2013,1.09,1.05,54.21,,,,,,
+statistical,deer are brown,deer,are they,are brown,novel,,,,,,,,,
+principled,diapers are absorbent,diapers,are they,are absorbent,2006 & 2013,2.65,0.42,95.86,5.06,5.44,3.11,4.94,5.72,6.67
+statistical,diapers are white,diapers,are they,are white,2006 & 2013,0.83,0.79,78.64,5.11,2.5,2,4.06,5.39,2.89
+principled,doctors diagnose ailments ,doctors,are they,diagnose ailments,2006,,,92.15,4.89,5.44,2.72,5.61,5.61,5.5
+statistical,doctors are rich,doctors,are they,are rich,novel,,,,,,,,,
+principled,dogs are mammals,dogs,are they,are mammals,2013,2,0.06,80.79,,,,,,
+principled,dogs have tails,dogs,are they,have tails,2013,2.42,0.21,87.16,,,,,,
+statistical,dogs bark at strangers,dogs,are they,bark at strangers,2006 & 2013,1.75,2.37,72.11,5.33,4.56,2.06,4.11,3.72,4.17
+statistical,dogs wear collars ,dogs,are they,wear collars,2006,,,70.44,5.61,2.39,2.11,4,3.78,3
+principled,dolls are manufactured,dolls,are they,are manufactured,novel,,,,,,,,,
+statistical,dolls wear dresses,dolls,are they,wear dresses,2013,1.04,0.47,68.74,,,,,,
+principled,ducks lay eggs,ducks,are they,lay eggs,2013,2.04,0.58,56.53,,,,,,
+statistical,ducks are female,ducks,are they,are female,2013,0.58,0.74,49.26,,,,,,
+principled,eggshells are fragile ,eggshells,are they,are fragile,2006,,,94.79,5.22,6.33,2.17,4.67,5,4.83
+statistical,eggshells are white,eggshells,are they,are white,both,1.75,0.21,59.79,5.67,3.11,2.89,4.56,3.39,3.44
+principled,elk have antlers,elk,are they,have antlers,2013,1.67,0.42,57,,,,,,
+statistical,elk are brown,elk,are they,are brown,novel,,,,,,,,,
+principled,elms are trees,elms,are they,are trees,2013,2.54,0.05,78.42,,,,,,
+statistical,elms are tall,elms,are they,are tall,novel,,,,,,,,,
+principled,engineers have degrees,engineers,are they,have degrees,novel,,,,,,,,,
+statistical,engineers are male,engineers,are they,are male,2013,0.04,0.42,72.79,,,,,,
+principled,englishmen are from great britain,Englishmen,are they,are from Great Britain,novel,,,,,,,,,
+statistical,englishmen drink tea ,Englishmen,are they,drink tea,2006,,,67.15,5.61,3.39,2.22,2.39,2,1.67
+principled,feathers are light,feathers,are they,are light,2013,2.29,0.44,86.16,,,,,,
+statistical,feathers are pretty,feathers,are they,are pretty,novel,,,,,,,,,
+principled,fire trucks have hoses,fire trucks,are they,have hoses,2006,,,97.84,4.61,5.61,2.72,5.17,5.61,6.61
+statistical,fire trucks are red ,fire trucks,are they,are red,2006 & 2013,1.92,0.84,88.91,6.06,3.83,2.17,4.5,5.5,4.56
+principled,frenchmen are europeans,Frenchmen,are they,are Europeans,novel,,,,,,,,,
+statistical,frenchmen drink wine,Frenchmen,are they,drink wine,2006,,,67.86,5,2.44,2.06,2.67,2.28,2.11
+principled,germans are from northern europe,Germans,are they,are from Northern Europe,novel,,,,,,,,,
+statistical,germans drink beer ,Germans,are they,drink beer,2006,,,67.78,4.17,2.22,2.06,2.72,3.89,2.06
+principled,goats have horns,goats,are they,have horns,2013,1.42,0.11,62.53,,,,,,
+statistical,goats are stubborn,goats,are they,are stubborn,novel,,,,,,,,,
+principled,golfers use clubs,golfers,are they,use clubs,novel,,,,,,,,,
+statistical,golfers wear plaid pants,golfers,are they,wear plaid pants,2006,,,48.93,5.56,1.94,2.44,2.78,3.72,2.11
+principled,grass is green ,grass,is it,is green,2006,,,94.47,5.06,5.06,3,4.33,5.11,5.72
+statistical,grass grows on lawns,grass,is it,grows on lawns,novel,,,,,,,,,
+principled,gymnasts are flexible,gymnasts,are they,are flexible,2006,,,94.93,5.83,5.5,4.22,4.5,3.72,6.72
+statistical,gymnasts are young,gymnasts,are they,are young,novel,,,,,,,,,
+principled,hair nets cover your head,hair nets,are they,cover your head,novel,,,,,,,,,
+statistical,hair nets are black ,hair nets,are they,are black,2006,,,64.03,5.83,2.83,1.78,2.89,4.22,5.06
+principled,hindus don’t eat beef ,Hindus,are they,don’t eat beef,2006,,,84.54,5.33,4.61,3.28,5.28,4.94,5.67
+statistical,hindus live in india ,Hindus,are they,live in India,2006,,,67.9,4.94,2.72,2.5,2.67,4.67,2.06
+principled,horses have four legs,horses,are they,have four legs,2013,2.54,-0.11,94.58,,,,,,
+statistical,horses wear horseshoes,horses,are they,wear horseshoes,novel,,,,,,,,,
+principled,italians live in southern europe,Italians,are they,live in Southern Europe,novel,,,,,,,,,
+statistical,italians are catholic ,Italians,are they,are Catholic,2006,,,70,4.61,2.44,1.72,2.28,3.33,2.06
+principled,jews don’t eat pork ,Jews,are they,don’t eat pork,2006,,,81.02,5.44,4.28,2.78,4.94,4.78,4.61
+statistical,jews go to a synagogue,Jews,are they,go to a synagogue,novel,,,,,,,,,
+principled,journalists report news,journalists,are they,report news,2006,,,88.51,5.33,5.33,2.83,5.5,5.61,4.83
+statistical,journalists carry notebooks,journalists,are they,carry notebooks,novel,,,,,,,,,
+principled,kangaroos have pouches,kangaroos,are they,have pouches,2013,2.33,1.26,64.89,,,,,,
+statistical,kangaroos live in australia,kangaroos,are they,live in Australia,novel,,,,,,,,,
+principled,lemons are sour ,lemons,are they,are sour,2006 & 2013,2.25,1.06,95.48,5.89,6,3.28,5.11,4.89,6
+statistical,lemons are yellow,lemons,are they,are yellow,novel,,,,,,,,,
+principled,leopards have spots,leopards,are they,have spots,2013,2.17,0.68,88.32,,,,,,
+statistical,leopards are predators,leopards,are they,are predators,novel,,,,,,,,,
+principled,lifeguards can swim ,lifeguards,are they,can swim,2006,,,95.87,4.28,6.33,2.89,5.56,5.06,6.83
+statistical,lifeguards are muscular,lifeguards,are they,are muscular,novel,,,,,,,,,
+principled,lions have manes,lions,are they,have manes,2013,1.46,0.89,53.63,,,,,,
+statistical,lions are male,lions,are they,are male,2013,0.04,0.16,57.11,,,,,,
+principled,mammals wean their young,mammals,are they,wean their young,novel,,,,,,,,,
+statistical,mammals are placental mammals,mammals,are they,are placental mammals,2013,0.92,1.89,69.21,,,,,,
+principled,milk is white,milk,is it,is white,2006,,,92.12,5.06,4.83,3,5.17,4.17,5.39
+statistical,milk comes from cows,milk,is it,comes from cows,novel,,,,,,,,,
+principled,moose have antlers,moose,are they,have antlers,2013,1.79,0.67,60.21,,,,,,
+statistical,moose are brown,moose,are they,are brown,novel,,,,,,,,,
+principled,mormons don’t drink alcohol,Mormons,are they,don’t drink alcohol,2006,,,70.28,5.39,5.22,3.33,5.56,4.72,5.39
+statistical,mormons live in utah,Mormons,are they,live in Utah,novel,,,,,,,,,
+principled,mushrooms are fungi,mushrooms,are they,are fungi,2013,2.46,1.47,90.11,,,,,,
+statistical,mushrooms are used in cooking,mushrooms,are they,are used in cooking,novel,,,,,,,,,
+principled,muslims pray to allah,Muslims,are they,pray to Allah,novel,,,,,,,,,
+statistical,muslims are middle eastern,Muslims,are they,are Middle Eastern,2006,,,66.57,4.94,2.67,1.94,3.28,4.5,1.94
+principled,needles are sharp,needles,are they,are sharp,2006 & 2013,2.42,0.42,96.47,5.22,6.17,2.83,5.00,5.33,6.61
+statistical,needles are sterile,needles,are they,are sterile,novel,,,,,,,,,
+principled,oranges grow on trees,oranges,are they,grow on trees,novel,,,,,,,,,
+statistical,oranges are grown in florida,oranges,are they,are grown in Florida,2006,,,66.2,5.28,3.83,2.33,4.39,4.44,2.17
+principled,peacocks have beautiful tails,peacocks,are they,have beautiful tails,2013,1.91,1.32,64.63,,,,,,
+statistical,peacocks are ornamental pets,peacocks,are they,are ornamental pets,novel,,,,,,,,,
+principled,pigeons have feathers,pigeons,are they,have feathers,novel,,,,,,,,,
+statistical,pigeons sit on statues ,pigeons,are they,sit on statues,2006,,,66.88,5.67,3.06,2.28,3.78,1.61,3.5
+principled,pigs suckle their young,pigs,are they,suckle their young,2013,1.54,-0.53,60.95,,,,,,
+statistical,pigs are kept in pens ,pigs,are they,are kept in pens,2006,,,74.23,6.11,4.11,2.22,3.89,3.06,2.61
+principled,police officers wear badges,police officers,are they,wear badges,2006,,,93.47,5.61,5.44,2.28,5.56,5.22,5.89
+statistical,police officers eat donuts,police officers,are they,eat donuts,2006,,,63.19,5.39,1.83,2.5,3.78,3.5,1.78
+principled,preschoolers cannot vote,preschoolers,are they,cannot vote,2013,2.13,0.26,91.58,,,,,,
+statistical,preschoolers cannot read,preschoolers,are they,cannot read,novel,,,,,,,,,
+principled,professors are highly educated,professors,are they,are highly educated,novel,,,,,,,,,
+statistical,professors are absent-minded ,professors,are they,are absent-minded,2006,,,40.47,4.17,2.11,2.11,3.28,3.61,1.67
+principled,raccoons look like bandits,raccoons,are they,look like bandits,novel,,,,,,,,,
+statistical,raccoons eat garbage,raccoons,are they,eat garbage,2006 & 2013,1.13,0.53,67.71,5.28,3.22,2.06,3.61,3.72,2.11
+principled,raincoats are waterproof,raincoats,are they,are waterproof,2006,,,96.38,6.00,5.56,2.72,5.72,5.39,6.78
+statistical,raincoats are plastic,raincoats,are they,are plastic,novel,,,,,,,,,
+principled,rocking chairs are unstable,rocking chairs,are they,are unstable,novel,,,,,,,,,
+statistical,rocking chairs are wooden,rocking chairs,are they,are wooden,2006 & 2013,0.83,-0.26,75.88,5.61,2.78,2.06,3.22,5.11,3.94
+principled,rocks are hard ,rocks,are they,are hard,2006,,,95.69,4.39,5.72,3.67,5.56,5,5.61
+statistical,rocks are jagged ,rocks,are they,are jagged,2006,,,74.83,5.78,4.5,1.94,4.5,1.61,1.39
+principled,roller skates have wheels,roller skates,are they,have wheels,2006,,,94.61,3.61,5.56,2.78,4.94,5.00,6.83
+statistical,roller skates have laces,roller skates,are they,have laces,novel,,,,,,,,,
+principled,sandpaper is rough,sandpaper,is it,is rough,2006,,,95.75,5.33,5.89,2.89,5.28,4.50,5.89
+statistical,sandpaper is sold at the hardware store,sandpaper,is it,is sold at the hardware store,novel,,,,,,,,,
+principled,scissors cut,scissors,are they,cut,2006 & 2013,2.67,1.00,93.25,4.56,5.22,2.78,5.33,4.61,6.56
+statistical,scissors are right-handed,scissors,are they,are right-handed,novel,,,,,,,,,
+principled,sheep produce milk,sheep,are they,produce milk,2013,2,0.06,51.89,,,,,,
+statistical,sheep live in herds,sheep,are they,live in herds,novel,,,,,,,,,
+principled,shower caps are waterproof,shower caps,are they,are waterproof,novel,,,,,,,,,
+statistical,shower caps are transparent,shower caps,are they,are transparent,2006,,,63.57,4.72,2.28,1.5,3,4.89,4.17
+principled,snakes lay eggs,snakes,are they,lay eggs,2013,2,0.32,63.68,,,,,,
+statistical,snakes are long,snakes,are they,are long,novel,,,,,,,,,
+principled,snow is white ,snow,is it,is white,2006,,,95.81,5.28,5.28,2.94,5.22,4.78,5.5
+statistical,snow falls in the winter,snow,is it,snow falls in the winter,novel,,,,,,,,,
+principled,sows are pigs,sows,are they,are pigs,2013,1.74,0.58,80.37,,,,,,
+statistical,sows are pink,sows,are they,are pink,novel,,,,,,,,,
+principled,spandex is stretchy,spandex,is it,is stretchy,2006,,,94.10,4.94,5.78,3.00,4.83,4.78,6.67
+statistical,spandex is thin,spandex,is it,is thin,novel,,,,,,,,,
+principled,spinach is green ,spinach,are they,is green,2006,,,95.13,5.56,4.61,2.5,4.61,4.44,6
+statistical,spinach is sold in bags,spinach,are they,is sold in bags,novel,,,,,,,,,
+principled,squirrels live in trees,squirrels,are they,live in trees,novel,,,,,,,,,
+statistical,squirrels live in parks,squirrels,are they,live in parks,2006,,,68.25,6.11,4.39,2,4,3.22,4.13
+principled,strawberries are red ,strawberries,are they,are red,2006,,,91.18,5.44,4.5,3.06,5.44,4.5,5.28
+statistical,strawberries are sold in boxes,strawberries,are they,are sold in boxes,novel,,,,,,,,,
+principled,submarines are airtight,submarines,are they,are airtight,2006,,,95.34,4.72,6.50,2.33,4.94,4.72,6.06
+statistical,submarines are black,submarines,are they,are black,novel,,,,,,,,,
+principled,summers are warm,summers,are they,are warm,novel,,,,,,,,,
+statistical,summers are humid ,summers,are they,are humid,2006 & 2013,1.21,1.16,77.89,6.11,4.28,2.17,3.33,3.72,4.94
+principled,tables are flat,tables,are they,are flat,2006 & 2013,2.29,0.05,94.85,5.44,6.11,2.67,5.50,5.39,5.72
+statistical,tables are made of wood,tables,are they,are made of wood,2006,,,65.49,5.39,3.11,2,3.17,5,2.17
+principled,taxis transport people,taxis,are they,transport people,novel,,,,,,,,,
+statistical,taxis are yellow ,taxis,are they,are yellow,2006,,,80.01,5.06,3.17,1.5,3.67,5.06,5.11
+principled,teachers impart knowledge ,teachers,are they,impart knowledge,2006,,,87.99,5.39,5.56,3.22,4.89,4.83,6.39
+statistical,teachers are female,teachers,are they,are female,2013,0.26,0.16,65.21,,,,,,
+principled,tightrope walkers have good balance,tightrope walkers,are they,have good balance,2006,,,94.26,6.22,5.94,3.5,4.94,4.89,6.5
+statistical,tightrope walkers work in the circus,tightrope walkers,are they,work in the circus,novel,,,,,,,,,
+principled,trains travel on tracks,trains,are they,travel on tracks,2006,,,98.53,4.39,6.00,2.11,4.89,5.11,6.17
+statistical,trains are long,trains,are they,are long,novel,,,,,,,,,
+principled,trampolines are bouncy,trampolines,are they,are bouncy,2006,,,96.22,4.89,5.94,2.78,5.28,5.00,6.67
+statistical,trampolines are black,trampolines,are they,are black,2006,,,64.29,4.94,1.94,1.89,3.22,5.28,5.22
+principled,trumpets are instruments,trumpets,are they,are instruments,novel,,,,,,,,,
+statistical,trumpets are loud,trumpets,are they,are loud,2013,1.38,0.11,79.47,,,,,,
+principled,turtles walk slowly ,turtles,are they,walk slowly,2006,,,93.55,5.11,4.83,2.89,4.67,4.94,4.44
+statistical,turtles eat lettuce,turtles,are they,eat lettuce,novel,,,,,,,,,
+principled,united states presidents are over 35,United States presidents,are they,are over 35,2013,2.74,-0.68,87.26,,,,,,
+statistical,united states presidents are men,United States presidents,are they,are men,novel,,,,,,,,,
+principled,wallets hold money,wallets,are they,hold money,novel,,,,,,,,,
+statistical,wallets are made of leather,wallets,are they,are made of leather,2006,,,63.53,5.67,2.11,1.72,3.06,4.22,4.67
+principled,winters are cold,winters,are they,are cold,novel,,,,,,,,,
+statistical,winters are snowy ,winters,are they,are snowy,2006 & 2013,1.29,1.58,72.39,6,4.5,2.28,4.72,4.11,3.06
+principled,worms live in the ground,worms,are they,live in the ground,novel,,,,,,,,,
+statistical,worms are used as bait,worms,are they,are used as bait,2006,,,62.59,5.61,3.72,1.94,3.44,3.17,3.72

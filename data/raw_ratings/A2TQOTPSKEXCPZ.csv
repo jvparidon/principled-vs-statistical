@@ -1,0 +1,4 @@
+responses,rt,answer,catch,choices,item,prompt,property,question_type,stimulus,subject,trial_num,type
+"{""rating"":2}",3180,,,"very unlikely,,,neither unlikely nor likely,,,very likely",mormons don’t drink alcohol,, don’t drink alcohol,prevalence,"Think about Mormons, how likely are they to not drink alcohol?",Mormons,6,principled
+"{""rating"":4}",3078,,,"very unlikely,,,neither unlikely nor likely,,,very likely",professors are highly educated,, are highly educated,prevalence,"Think about professors, how likely are they to be highly educated?",professors,12,principled
+"{""rating"":4}",4476,completely true,filler,"completely false,,,neither true nor false,,,completely true",,How true is the above statement?,,prevalence,Getting struck by lightning is bad for your health.,,13,
