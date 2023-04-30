@@ -3,15 +3,15 @@ This directory contains data associated with this project.
 
 The files contain the following:
 
-* [novel_stimuli_plus_prasada_data.csv]: full list of stimuli used in our rating study, consisting of A) original Prasada 
+* `novel_stimuli_plus_prasada_data.csv`: full list of stimuli used in our rating study, consisting of A) original Prasada 
 stimuli, and B) novel stimuli to balance out the stimulus categories in Prasada stimuli and present participants a balanced design; included with 
 the Prasada stimuli are the participant ratings reported in the original papers (for comparison with novel ratings).
-* [novel_data.csv]: ratings collected for the stimuli in the above file.
-* [raw_ratings/]: directory containing unprocessed rating/
+* `novel_data.csv`: ratings collected for the stimuli in the above file.
+* `raw_ratings/`: directory containing unprocessed rating/
 
 ## Codebook
 
-### `[novel_stimuli_plus_prasada_data.csv]`
+### `novel_stimuli_plus_prasada_data.csv`
 * `type`: principled versus statistical generic, as categorized in Prasada 2006/2013
 * `item`: the stimulus sentence
 * `subject`: the concept that the generic describes
@@ -21,7 +21,7 @@ the Prasada stimuli are the participant ratings reported in the original papers 
 * `Truth.judgment`; `Cue.validity.estimate`; `Prevalence.estimate`: ratings from Prasada 2006
 * `in.general`; `by.virtue.of`; `causal.essence`; `statistical`; `formal`; `should`: ratings from Prasada 2013
 
-### `[novel_stimuli_plus_prasada_data.csv]`
+### `novel_stimuli_plus_prasada_data.csv`
 * `pp`: participant
 * `type`: principled versus statistical generic, as categorized in Prasada 2006/2013
 * `item`: the stimulus sentence
